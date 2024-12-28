@@ -14,13 +14,13 @@ A calculator project built with React.
 
 ## Installation
 
-1. `git clone `
+1. `git clone https://github.com/Rupali-1801/calculator.git`
 
 2. `cd calculator`
 
 3. `npm install`
 
-4. `npm start`
+4. `npm start or npm run start`
 
 
 
